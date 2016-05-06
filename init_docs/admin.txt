@@ -4,12 +4,14 @@
     "roles": ["Manager", "SuperManager"], 
     "firstName": "Default", 
     "lastName": "Admin",
+    //Hello, this is my second commit...
      "password":"password",
 "Gender":"Male", 
      "status": "active",
      "email": "admin.somalia@olebell.org",
      "visits": 0
      //Hi, this is my third commit
+     //Hi, First commit.
 }
 
 
