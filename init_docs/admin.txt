@@ -4,6 +4,7 @@
     "roles": ["Manager", "SuperManager"], 
     "firstName": "Default", 
     "lastName": "Admin",
+    //Hello, this is my second commit...
      "password":"password",
 "Gender":"Male", 
      "status": "active",
